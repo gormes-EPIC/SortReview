@@ -18,6 +18,7 @@
 - Make sure you consult the style guidelines below for this assignment. They will explain how to add and general JavaDoc documentation for your code.
 - Your submission should be pushed to GitHub classroom and include ```QuadSorts``` and  ```QuadSorts.html```
 
+---
 # Lab 4: Style Guidelines
 ## Lab 4: Sort Review  Style Guide
 
@@ -59,6 +60,7 @@ If you type ```/**``` and hit enter directly above a block of code, it will gene
 
 The Javadoc tool to generate a Javadoc reference should already be installed with IntelliJ. To use it [follow this documentation](https://www.jetbrains.com/help/idea/javadocs.html) from IntelliJ. *Note: when it asks you what output directory you want to use, create a new directory within your project first! The Javadoc tool will generate A Lot of files.* Make sure to double check that QuadSorts.html generated correctly before you submit.
 
+---
 # Data Structures Style Guide
 
 In this course, we will not only practice writing code but how to write good code. Learning how to write good code  
