@@ -10,7 +10,7 @@
 2. Write out **on paper** a method to sort  an array of numbers *on paper* for each of the four sorts.
 3. Scan in your handwritten code add at it to your GitHub project or turn in your handwritten code to me in person.
 ## 4.2 Get Coding
-- Define group roles - these should parallel the pair programming model but you may make modifications (such as deciding to switch at different time instead of every 15 minutes).
+- Define group roles - these should parallel the pair programming model but you may make modifications (such as deciding to switch at different time instead of every 15 minutes). _Hint: document these in reflection questions as soon as you decide on your norm.s_
 - Pull the project starter from GitHub and start coding
 ## 4.3 - Try Them Against Tester
 - To test your code, run the main in SortingTester. This will run your methods against three  random number arrays. Make sure your code passes all three test cases for each of the four sorts.
@@ -19,11 +19,12 @@
 - Your submission should be pushed to GitHub classroom. It should include ```QuadSorts```, ```QuadSorts.html```, and answer the reflection questions in ```README.md```.
 - Your handwritten code may be included as part of your GitHub submission or turned in in-person.
 ### Reflection Questions
-1. What differences are there between your handwritten code and your completed code?
-2. What aspects of "good code" does this project demonstrate?
-3. What challenges did you face during this project?
-4. What is the difference between interative and recursive design?
-5. Why do you think software engineers generate Javadoc references or equivalent for their projects? What is effective about Javadoc comments?
+1. What group roles did you define for your team? 
+2. What differences are there between your handwritten code and your completed code?
+3. What aspects of "good code" does this project demonstrate?
+4. What challenges did you face during this project?
+5. What is the difference between interative and recursive design?
+6. Why do you think software engineers generate Javadoc references or equivalent for their projects? What is effective about Javadoc comments?
 
 
 ---
