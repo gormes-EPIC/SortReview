@@ -16,7 +16,15 @@
 - To test your code, run the main in SortingTester. This will run your methods against three  random number arrays. Make sure your code passes all three test cases for each of the four sorts.
 ## 4.4 - Deliverables and Style
 - Make sure you consult the style guidelines below for this assignment. They will explain how to add and general JavaDoc documentation for your code.
-- Your submission should be pushed to GitHub classroom and include ```QuadSorts``` and  ```QuadSorts.html```
+- Your submission should be pushed to GitHub classroom. It should include ```QuadSorts```, ```QuadSorts.html```, and answer the question in ```README.md```.
+- Your handwritten code may be included as part of your GitHub submission or turned in in-person.
+### Questions
+1. What differences are there between your handwritten code and your completed code?
+2. What aspects of "good code" does this project demonstrate?
+3. What challenges did you face during this project?
+4. What is the difference between interative and recursive design?
+5. Why do you think software engineers generate Javadoc references or equivalent for their projects? What is effective about Javadoc comments?
+
 
 ---
 # Lab 4: Style Guidelines
