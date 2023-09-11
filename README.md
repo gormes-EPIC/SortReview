@@ -10,7 +10,7 @@
 2. Write out **on paper** a method to sort  an array of numbers *on paper* for each of the four sorts.
 3. Scan in your handwritten code add at it to your GitHub project or turn in your handwritten code to me in person.
 ## 4.2 Get Coding
-- Define group roles - these should parallel the pair programming model but you may make modifications (such as deciding to switch at different time instead of every 15 minutes). _Hint: document these in reflection questions as soon as you decide on your norm.s_
+- Define group roles - these should parallel the pair programming model but you may make modifications (such as deciding to switch at different time instead of every 15 minutes). _Hint: document these in reflection questions as soon as you decide on your norms._
 - Pull the project starter from GitHub and start coding
 ## 4.3 - Try Them Against Tester
 - To test your code, run the main in SortingTester. This will run your methods against three  random number arrays. Make sure your code passes all three test cases for each of the four sorts.
